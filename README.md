@@ -1,0 +1,2 @@
+# akuukangomokuforCUI
+亜空間五目並べのCUI用プログラム
